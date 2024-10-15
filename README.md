@@ -1,4 +1,3 @@
-## PowerBI_Portfolio
 
 ## Sales Data Analytics 📊
 
