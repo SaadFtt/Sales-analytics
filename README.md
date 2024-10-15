@@ -1,7 +1,9 @@
 
 ## Sales Data Analytics 📊
 
-### 1. Project Title: Sales Data Analysis during Virtual Internship at MerySkill
+### 1. Project Title: 
+
+Sales Data Analysis during Virtual Internship at MerySkill
 
 ### 2. Description
 This project was part of a virtual internship at MerySkill, where I analyzed sales data to uncover trends, performance metrics, and customer insights. The project aimed to provide actionable data-driven recommendations for strategic decision-making within the company.
