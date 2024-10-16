@@ -1,4 +1,4 @@
-c
+
 ## Sales Data Analytics 📊
 
 ### 1. Project Title: 
