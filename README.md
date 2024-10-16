@@ -1,4 +1,4 @@
-
+c
 ## Sales Data Analytics 📊
 
 ### 1. Project Title: 
@@ -27,8 +27,8 @@ The main goal was to extract critical insights from sales data to assist with bu
 - Delivered strategic recommendations based on data trends and customer analysis.
 
 ### 7. Screenshots
-![Sales Dashboard]("C:\Users\RPC\Desktop\dashboardMS.png")
-*(Replace this with an actual screenshot of your Power BI dashboard)*
+<img width="635" alt="dashboardMS" src="https://github.com/user-attachments/assets/89d7c0c6-e9bc-4ad2-8500-13cc90bb8ec0">
+
 
 ### 8. Repository
 You can view the source code and details for this project in the repository:
